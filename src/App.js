@@ -1,8 +1,10 @@
-
+import {Landing, Error, Dashboard, Register} from './pages';
 
 function App() {
   return (
-    <h1>Admin Dashboard</h1>
+    <div>
+      <Landing />
+    </div>
   );
 }
 
