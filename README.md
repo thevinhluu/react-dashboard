@@ -1,6 +1,6 @@
 # React Admin Dashboard
 
-Project in Action - [Dashboard](https://dashboard-luuthevinh.vercel.app/)
+Project in Action - [Dashboard](https://react-dashboard-luuthevinh.vercel.app/)
 
 #### Run The App Locally
 
